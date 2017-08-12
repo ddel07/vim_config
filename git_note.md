@@ -28,7 +28,7 @@ $ git git config --global push.default matching
 #部分推送
 $ git config --global push.default simple
 ```
-##常用命令
+## 常用命令
 ```
 #将文件添加到暂存区,加-A 添加全部,但有.git的目录添加不了
 $ git add file
